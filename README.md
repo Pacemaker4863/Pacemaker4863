@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pacemaker4863
-- 👀 I’m interested in Programming, Software Architecture, Java, Python, .NET
-- 🌱 I’m currently learning a lot of things !
+- 👀 I’m interested in Programming, Software craftmanship and agile practices.
+- 🌱 I’m currently learning a lot of things and I hope that it will continue!
 - 💞️ I’m looking to collaborate on OSS
 - 📫 Here, on Github
 
